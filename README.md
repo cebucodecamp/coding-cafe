@@ -3,7 +3,8 @@
 
 **What is the Coding Café?**
 A place to code, learn, hangout. Just drop by and code!
- 
+Built by and for the community.
+
 No agenda, no speakers. But we've got good, stable Internet for ya! :)
  
 So, what can you do? Actually, whatever you want!
@@ -25,7 +26,13 @@ The next Coding Café is on September 10th 2016 at the TIDE from 14:00 to 18:00.
 
 
 **How?**
-No RSVP necessary — come visit, learn, code & enjoy!If you want to keep up-to-date with future events, join the Cebu Code Camp Google Group!
+No RSVP necessary — come visit, learn, code & enjoy!If you want to keep up-to-date with future events, join the [Cebu Code Camp Google Group](https://groups.google.com/forum/#!forum/cebucodecamp)!
+
+Want to discuss your idea?
+[Email](https://groups.google.com/forum/#!forum/cebucodecamp) or [chat](https://gitter.im/cebucodecamp/loft) with us.
+
+Want to keep up to date?
+_Watch_ this repo.
 
 
 Note: The building has a dress code (depending on the guards' mood). To be safe, wear a proper shirt, trousers and shoes.
