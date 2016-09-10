@@ -17,6 +17,25 @@ So, what can you do? Actually, whatever you want!
 * Contribute to an OS project … ask someone for suggestions. :)
 * Present something. Send us a pull request for this file with the info of your presentation.
 
+CCC Coding Café September 10th from Alberto Arco:
+> This is a call for brainstorming/ideation/creation/etc to all the IoT/Drone/Devopers/WebDev/etc interested people in cebu. 
+> 
+> As you may know, we are creating an innovative IT training program for underprivileged students and, this time, we want to use drone to develop their programming skills.
+> 
+> We are currently discovering all the possibilities that offer these devices, and we want to share them you and see your ideas of implementation.
+> 
+> We will be bringing a few Parrot Minidrones (Rolling Spider - BLE 4.0, Jumping Sumo - Wifi) and a several Raspberry Pi 3.
+
+> Bellow there are some docs and materials you might like to check before the event:
+> 
+> NodeJS Library to control the drone: https://github.com/voodootikigod/node-rolling-spider
+> Official SDK: http://developer.parrot.com/docs/SDK3/
+> Noble Library to control Bluetooth in NodeJS: https://www.npmjs.com/package/noble
+> Drone videos: https://youtu.be/3LZgTgI0REk
+> 
+> See you there! :)
+
+
 See our [blog post](http://cebucodecamp.org/p/185/introducing-the-coding-cafe) introducing the Coding Café.
 
  
